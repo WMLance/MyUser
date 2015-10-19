@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyUser</string>
+    <string name="remember">记住用户名和密码</string>
+    <string name="name">请输入用户名</string>
+    <string name="password">请输入密码</string>
+    <string name="input">登陆</string>
+
+</resources>
+
